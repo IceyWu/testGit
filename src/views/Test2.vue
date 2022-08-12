@@ -12,8 +12,8 @@ let array2 = [
   { name: 1, id: 1 },
   { name: 2, id: 2 },
 
-  // { name: 1, id: 1 },
-  // { name: 2, id: 2 },
+  { name: 1, id: 1 },
+  { name: 2, id: 2 },
 ]
 let isDiff = ref(false)
 
